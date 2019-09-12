@@ -1,0 +1,11 @@
+# ARRAY
+![Alt Text](https://github.com/leo-gaming/ARRAY/blob/master/percobaanARRAY%20-%20NetBeans%20IDE%208.2%2012_09_2019%2012_19_57.png)
+![Alt Text](https://github.com/leo-gaming/ARRAY/blob/master/percobaanARRAY%20-%20NetBeans%20IDE%208.2%2012_09_2019%2012_20_05.png)
+![Alt Text](https://github.com/leo-gaming/ARRAY/blob/master/percobaanARRAY%20-%20NetBeans%20IDE%208.2%2012_09_2019%2012_20_14.png)
+![Alt Text](https://github.com/leo-gaming/ARRAY/blob/master/percobaanARRAY%20-%20NetBeans%20IDE%208.2%2012_09_2019%2012_20_21.png)
+![Alt Text](https://github.com/leo-gaming/ARRAY/blob/master/percobaanARRAY%20-%20NetBeans%20IDE%208.2%2012_09_2019%2012_20_32.png)
+![Alt Text](https://github.com/leo-gaming/ARRAY/blob/master/percobaanARRAY%20-%20NetBeans%20IDE%208.2%2012_09_2019%2012_20_44.png)
+![Alt Text](https://github.com/leo-gaming/ARRAY/blob/master/percobaanARRAY%20-%20NetBeans%20IDE%208.2%2012_09_2019%2012_20_59.png)
+![Alt Text](https://github.com/leo-gaming/ARRAY/blob/master/percobaanARRAY%20-%20NetBeans%20IDE%208.2%2012_09_2019%2012_22_46.png)
+![Alt Text](https://github.com/leo-gaming/ARRAY/blob/master/percobaanARRAY%20-%20NetBeans%20IDE%208.2%2012_09_2019%2012_22_51.png)
+![Alt Text](https://github.com/leo-gaming/ARRAY/blob/master/percobaanARRAY%20-%20NetBeans%20IDE%208.2%2012_09_2019%2012_29_15.png)
